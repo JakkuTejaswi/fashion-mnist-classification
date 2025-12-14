@@ -21,4 +21,6 @@ to classify Fashion-MNIST images into 10 clothing categories.
 - Test Loss: 34.34
 
 ### 🖼️ Sample Prediction
-(attach image)
+
+![Sample Prediction](Screenshot%202025-12-14%20111412.png)
+
